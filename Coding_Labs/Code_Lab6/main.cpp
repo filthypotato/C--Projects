@@ -1,6 +1,4 @@
 /*
-Name: Tylor Romine
-Class: CISS 242 Coding Lab5
 Date: 04/25/26
 Program: Asks user for linked list size, user inputs data, inserts, deletes, and displays given data
 
